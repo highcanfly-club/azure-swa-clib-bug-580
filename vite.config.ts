@@ -26,10 +26,9 @@ export default defineConfig({
     },
   },
   server: {
-    https: fs.existsSync("./localhost.lesmuids.windows-ext.key") ?
-    {
-      key: fs.readFileSync("./localhost.lesmuids.windows-ext.key"),
-      cert: fs.readFileSync("./localhost.lesmuids.windows-ext.pem"),
-    } : false,
+    https: {
+      key: fs.readFileSync("./key.pem"),
+      cert: fs.readFileSync("./cert.pem"),
+    }
   }
 })

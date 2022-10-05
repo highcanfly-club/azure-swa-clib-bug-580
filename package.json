@@ -8,7 +8,9 @@
     "dev": "vite",
     "build": "vite build && gulp licenses",
     "preview": "vite preview",
-    "azure-func":"cd api && npm run watch"
+    "start": "npx @azure/static-web-apps-cli start https://localhost:5173 --swa-config-location ./ -s -e cert.pem -k key.pem -p 8788 --api-location ./api -t 120 --run 'npm run dev'",
+    "prestart": "cd api && tsc",
+    "create-cert": "openssl req -x509 -newkey rsa:4096 -keyout key.pem -out cert.pem -sha256 -nodes -days 365"
   },
   "dependencies": {
     "@pqina/flip": "^1.7.7",
