@@ -1,1001 +1,506 @@
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher viteTimeMiddleware  : /src/App.vue
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher corsMiddleware  : /src/App.vue
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher viteServePublicMiddleware  : /src/App.vue
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher viteTransformMiddleware  : /src/App.vue
-[run] 2022-10-10T06:51:31.792Z vite:cache [304] /src/App.vue
-[run] 2022-10-10T06:51:31.792Z vite:time 0.37ms /src/App.vue
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher viteTimeMiddleware  : /src/index.css
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher corsMiddleware  : /src/index.css
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher viteServePublicMiddleware  : /src/index.css
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher viteTransformMiddleware  : /src/index.css
-[run] 2022-10-10T06:51:31.793Z vite:cache [304] /src/index.css
-[run] 2022-10-10T06:51:31.793Z vite:time 0.34ms /src/index.css
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher viteTimeMiddleware  : /@id/__x00__plugin-vue:export-helper
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher corsMiddleware  : /@id/__x00__plugin-vue:export-helper
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher viteServePublicMiddleware  : /@id/__x00__plugin-vue:export-helper
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher viteTransformMiddleware  : /@id/__x00__plugin-vue:export-helper
-[run] 2022-10-10T06:51:31.805Z vite:cache [304] plugin-vue:export-helper
-[run] 2022-10-10T06:51:31.805Z vite:time 0.21ms /@id/__x00__plugin-vue:export-helper
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher viteTimeMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher corsMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher viteServePublicMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher viteTransformMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher viteServeRawFsMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher viteServeStaticMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher viteSpaFallbackMiddleware  : /
-[run] 2022-10-10T06:51:31.837Z vite:spa-fallback Rewriting GET / to /index.html
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher viteIndexHtmlMiddleware  : /
-[run] 2022-10-10T06:51:31.837Z vite:time 1.06ms /index.html
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher viteTimeMiddleware  : /@vite/client
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher corsMiddleware  : /@vite/client
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher viteServePublicMiddleware  : /@vite/client
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher viteTransformMiddleware  : /@vite/client
-[run] 2022-10-10T06:51:31.844Z vite:cache [304] /@vite/client
-[run] 2022-10-10T06:51:31.844Z vite:time 0.50ms /@vite/client
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher viteTimeMiddleware  : /src/main.ts
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher corsMiddleware  : /src/main.ts
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher viteServePublicMiddleware  : /src/main.ts
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher viteTransformMiddleware  : /src/main.ts
-[run] 2022-10-10T06:51:31.845Z vite:cache [304] /src/main.ts
-[run] 2022-10-10T06:51:31.845Z vite:time 0.33ms /src/main.ts
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher viteTimeMiddleware  : /node_modules/vite/dist/client/env.mjs
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher corsMiddleware  : /node_modules/vite/dist/client/env.mjs
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher viteServePublicMiddleware  : /node_modules/vite/dist/client/env.mjs
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher viteTransformMiddleware  : /node_modules/vite/dist/client/env.mjs
-[run] 2022-10-10T06:51:31.848Z vite:cache [304] /node_modules/vite/dist/client/env.mjs
-[run] 2022-10-10T06:51:31.848Z vite:time 0.41ms /node_modules/vite/dist/client/env.mjs
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher viteTimeMiddleware  : /src/App.vue
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher corsMiddleware  : /src/App.vue
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher viteServePublicMiddleware  : /src/App.vue
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher viteTransformMiddleware  : /src/App.vue
-[run] 2022-10-10T06:51:31.848Z vite:cache [304] /src/App.vue
-[run] 2022-10-10T06:51:31.848Z vite:time 0.32ms /src/App.vue
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher viteTimeMiddleware  : /src/index.css
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher corsMiddleware  : /src/index.css
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher viteServePublicMiddleware  : /src/index.css
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher viteTransformMiddleware  : /src/index.css
-[run] 2022-10-10T06:51:31.849Z vite:cache [304] /src/index.css
-[run] 2022-10-10T06:51:31.849Z vite:time 0.27ms /src/index.css
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher viteTimeMiddleware  : /@id/__x00__plugin-vue:export-helper
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher corsMiddleware  : /@id/__x00__plugin-vue:export-helper
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher viteServePublicMiddleware  : /@id/__x00__plugin-vue:export-helper
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher viteTransformMiddleware  : /@id/__x00__plugin-vue:export-helper
-[run] 2022-10-10T06:51:31.857Z vite:cache [304] plugin-vue:export-helper
-[run] 2022-10-10T06:51:31.857Z vite:time 0.21ms /@id/__x00__plugin-vue:export-helper
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher viteTimeMiddleware  : /src/views/IndexPage.vue
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher corsMiddleware  : /src/views/IndexPage.vue
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher viteServePublicMiddleware  : /src/views/IndexPage.vue
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher viteTransformMiddleware  : /src/views/IndexPage.vue
-[run] 2022-10-10T06:51:31.888Z vite:cache [304] /src/views/IndexPage.vue
-[run] 2022-10-10T06:51:31.888Z vite:time 0.55ms /src/views/IndexPage.vue
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher viteTimeMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher corsMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher viteServePublicMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher viteTransformMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher viteServeRawFsMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher viteServeStaticMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher viteSpaFallbackMiddleware  : /
-[run] 2022-10-10T06:51:31.892Z vite:spa-fallback Rewriting GET / to /index.html
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher viteIndexHtmlMiddleware  : /
-[run] 2022-10-10T06:51:31.893Z vite:time 1.19ms /index.html
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher viteTimeMiddleware  : /@vite/client
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher corsMiddleware  : /@vite/client
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher viteServePublicMiddleware  : /@vite/client
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher viteTransformMiddleware  : /@vite/client
-[run] 2022-10-10T06:51:31.900Z vite:cache [304] /@vite/client
-[run] 2022-10-10T06:51:31.900Z vite:time 0.62ms /@vite/client
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher viteTimeMiddleware  : /src/main.ts
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher corsMiddleware  : /src/main.ts
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher viteServePublicMiddleware  : /src/main.ts
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher viteTransformMiddleware  : /src/main.ts
-[run] 2022-10-10T06:51:31.901Z vite:cache [304] /src/main.ts
-[run] 2022-10-10T06:51:31.901Z vite:time 0.37ms /src/main.ts
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher viteTimeMiddleware  : /node_modules/vite/dist/client/env.mjs
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher corsMiddleware  : /node_modules/vite/dist/client/env.mjs
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher viteServePublicMiddleware  : /node_modules/vite/dist/client/env.mjs
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher viteTransformMiddleware  : /node_modules/vite/dist/client/env.mjs
-[run] 2022-10-10T06:51:31.904Z vite:cache [304] /node_modules/vite/dist/client/env.mjs
-[run] 2022-10-10T06:51:31.904Z vite:time 0.45ms /node_modules/vite/dist/client/env.mjs
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher viteTimeMiddleware  : /src/App.vue
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher corsMiddleware  : /src/App.vue
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher viteServePublicMiddleware  : /src/App.vue
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher viteTransformMiddleware  : /src/App.vue
-[run] 2022-10-10T06:51:31.905Z vite:cache [304] /src/App.vue
-[run] 2022-10-10T06:51:31.905Z vite:time 0.34ms /src/App.vue
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher viteTimeMiddleware  : /src/index.css
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher corsMiddleware  : /src/index.css
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher viteServePublicMiddleware  : /src/index.css
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher viteTransformMiddleware  : /src/index.css
-[run] 2022-10-10T06:51:31.905Z vite:cache [304] /src/index.css
-[run] 2022-10-10T06:51:31.905Z vite:time 0.38ms /src/index.css
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher viteTimeMiddleware  : /@id/__x00__plugin-vue:export-helper
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher corsMiddleware  : /@id/__x00__plugin-vue:export-helper
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher viteServePublicMiddleware  : /@id/__x00__plugin-vue:export-helper
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher viteTransformMiddleware  : /@id/__x00__plugin-vue:export-helper
-[run] 2022-10-10T06:51:31.914Z vite:cache [304] plugin-vue:export-helper
-[run] 2022-10-10T06:51:31.914Z vite:time 0.21ms /@id/__x00__plugin-vue:export-helper
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher viteTimeMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher corsMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher viteServePublicMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher viteTransformMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher viteServeRawFsMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher viteServeStaticMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher viteSpaFallbackMiddleware  : /
-[run] 2022-10-10T06:51:31.948Z vite:spa-fallback Rewriting GET / to /index.html
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher viteIndexHtmlMiddleware  : /
-[run] 2022-10-10T06:51:31.949Z vite:time 1.10ms /index.html
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher viteTimeMiddleware  : /@vite/client
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher corsMiddleware  : /@vite/client
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher viteServePublicMiddleware  : /@vite/client
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher viteTransformMiddleware  : /@vite/client
-[run] 2022-10-10T06:51:31.955Z vite:cache [304] /@vite/client
-[run] 2022-10-10T06:51:31.955Z vite:time 0.53ms /@vite/client
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher viteTimeMiddleware  : /src/main.ts
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher corsMiddleware  : /src/main.ts
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher viteServePublicMiddleware  : /src/main.ts
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher viteTransformMiddleware  : /src/main.ts
-[run] 2022-10-10T06:51:31.956Z vite:cache [304] /src/main.ts
-[run] 2022-10-10T06:51:31.956Z vite:time 0.33ms /src/main.ts
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher viteTimeMiddleware  : /node_modules/vite/dist/client/env.mjs
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher corsMiddleware  : /node_modules/vite/dist/client/env.mjs
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher viteServePublicMiddleware  : /node_modules/vite/dist/client/env.mjs
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher viteTransformMiddleware  : /node_modules/vite/dist/client/env.mjs
-[run] 2022-10-10T06:51:31.959Z vite:cache [304] /node_modules/vite/dist/client/env.mjs
-[run] 2022-10-10T06:51:31.959Z vite:time 0.43ms /node_modules/vite/dist/client/env.mjs
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher viteTimeMiddleware  : /src/App.vue
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher corsMiddleware  : /src/App.vue
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher viteServePublicMiddleware  : /src/App.vue
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher viteTransformMiddleware  : /src/App.vue
-[run] 2022-10-10T06:51:31.960Z vite:cache [304] /src/App.vue
-[run] 2022-10-10T06:51:31.960Z vite:time 0.33ms /src/App.vue
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher viteTimeMiddleware  : /src/index.css
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher corsMiddleware  : /src/index.css
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher viteServePublicMiddleware  : /src/index.css
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher viteTransformMiddleware  : /src/index.css
-[run] 2022-10-10T06:51:31.960Z vite:cache [304] /src/index.css
-[run] 2022-10-10T06:51:31.960Z vite:time 0.29ms /src/index.css
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher viteTimeMiddleware  : /@id/__x00__plugin-vue:export-helper
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher corsMiddleware  : /@id/__x00__plugin-vue:export-helper
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher viteServePublicMiddleware  : /@id/__x00__plugin-vue:export-helper
-[run] Mon, 10 Oct 2022 06:51:31 GMT connect:dispatcher viteTransformMiddleware  : /@id/__x00__plugin-vue:export-helper
-[run] 2022-10-10T06:51:31.971Z vite:cache [304] plugin-vue:export-helper
-[run] 2022-10-10T06:51:31.971Z vite:time 0.21ms /@id/__x00__plugin-vue:export-helper
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServeRawFsMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServeStaticMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteSpaFallbackMiddleware  : /
-[run] 2022-10-10T06:51:32.004Z vite:spa-fallback Rewriting GET / to /index.html
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteIndexHtmlMiddleware  : /
-[run] 2022-10-10T06:51:32.005Z vite:time 1.39ms /index.html
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /@vite/client
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /@vite/client
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /@vite/client
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /@vite/client
-[run] 2022-10-10T06:51:32.014Z vite:cache [304] /@vite/client
-[run] 2022-10-10T06:51:32.014Z vite:time 0.50ms /@vite/client
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /src/main.ts
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /src/main.ts
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /src/main.ts
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /src/main.ts
-[run] 2022-10-10T06:51:32.014Z vite:cache [304] /src/main.ts
-[run] 2022-10-10T06:51:32.014Z vite:time 0.31ms /src/main.ts
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /node_modules/vite/dist/client/env.mjs
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /node_modules/vite/dist/client/env.mjs
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /node_modules/vite/dist/client/env.mjs
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /node_modules/vite/dist/client/env.mjs
-[run] 2022-10-10T06:51:32.018Z vite:cache [304] /node_modules/vite/dist/client/env.mjs
-[run] 2022-10-10T06:51:32.018Z vite:time 0.39ms /node_modules/vite/dist/client/env.mjs
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /src/App.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /src/App.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /src/App.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /src/App.vue
-[run] 2022-10-10T06:51:32.018Z vite:cache [304] /src/App.vue
-[run] 2022-10-10T06:51:32.018Z vite:time 0.39ms /src/App.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /src/index.css
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /src/index.css
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /src/index.css
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /src/index.css
-[run] 2022-10-10T06:51:32.019Z vite:cache [304] /src/index.css
-[run] 2022-10-10T06:51:32.019Z vite:time 0.30ms /src/index.css
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /@id/__x00__plugin-vue:export-helper
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /@id/__x00__plugin-vue:export-helper
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /@id/__x00__plugin-vue:export-helper
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /@id/__x00__plugin-vue:export-helper
-[run] 2022-10-10T06:51:32.030Z vite:cache [304] plugin-vue:export-helper
-[run] 2022-10-10T06:51:32.030Z vite:time 0.20ms /@id/__x00__plugin-vue:export-helper
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServeRawFsMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServeStaticMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteSpaFallbackMiddleware  : /
-[run] 2022-10-10T06:51:32.062Z vite:spa-fallback Rewriting GET / to /index.html
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteIndexHtmlMiddleware  : /
-[run] 2022-10-10T06:51:32.063Z vite:time 1.06ms /index.html
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /@vite/client
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /@vite/client
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /@vite/client
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /@vite/client
-[run] 2022-10-10T06:51:32.076Z vite:cache [304] /@vite/client
-[run] 2022-10-10T06:51:32.076Z vite:time 0.59ms /@vite/client
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /src/main.ts
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /src/main.ts
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /src/main.ts
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /src/main.ts
-[run] 2022-10-10T06:51:32.076Z vite:cache [304] /src/main.ts
-[run] 2022-10-10T06:51:32.076Z vite:time 0.35ms /src/main.ts
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /node_modules/vite/dist/client/env.mjs
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /node_modules/vite/dist/client/env.mjs
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /node_modules/vite/dist/client/env.mjs
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /node_modules/vite/dist/client/env.mjs
-[run] 2022-10-10T06:51:32.080Z vite:cache [304] /node_modules/vite/dist/client/env.mjs
-[run] 2022-10-10T06:51:32.080Z vite:time 0.43ms /node_modules/vite/dist/client/env.mjs
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /src/App.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /src/App.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /src/App.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /src/App.vue
-[run] 2022-10-10T06:51:32.081Z vite:cache [304] /src/App.vue
-[run] 2022-10-10T06:51:32.081Z vite:time 0.54ms /src/App.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /src/index.css
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /src/index.css
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /src/index.css
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /src/index.css
-[run] 2022-10-10T06:51:32.082Z vite:cache [304] /src/index.css
-[run] 2022-10-10T06:51:32.082Z vite:time 0.38ms /src/index.css
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /@id/__x00__plugin-vue:export-helper
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /@id/__x00__plugin-vue:export-helper
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /@id/__x00__plugin-vue:export-helper
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /@id/__x00__plugin-vue:export-helper
-[run] 2022-10-10T06:51:32.094Z vite:cache [304] plugin-vue:export-helper
-[run] 2022-10-10T06:51:32.094Z vite:time 0.20ms /@id/__x00__plugin-vue:export-helper
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServeRawFsMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServeStaticMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteSpaFallbackMiddleware  : /
-[run] 2022-10-10T06:51:32.125Z vite:spa-fallback Rewriting GET / to /index.html
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteIndexHtmlMiddleware  : /
-[run] 2022-10-10T06:51:32.126Z vite:time 1.18ms /index.html
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /@vite/client
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /@vite/client
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /@vite/client
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /@vite/client
-[run] 2022-10-10T06:51:32.133Z vite:cache [304] /@vite/client
-[run] 2022-10-10T06:51:32.133Z vite:time 0.61ms /@vite/client
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /src/main.ts
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /src/main.ts
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /src/main.ts
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /src/main.ts
-[run] 2022-10-10T06:51:32.134Z vite:cache [304] /src/main.ts
-[run] 2022-10-10T06:51:32.134Z vite:time 0.47ms /src/main.ts
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /src/views/IndexPage.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /src/views/IndexPage.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /src/views/IndexPage.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /src/views/IndexPage.vue
-[run] 2022-10-10T06:51:32.135Z vite:cache [304] /src/views/IndexPage.vue
-[run] 2022-10-10T06:51:32.135Z vite:time 0.57ms /src/views/IndexPage.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /node_modules/vite/dist/client/env.mjs
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /node_modules/vite/dist/client/env.mjs
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /node_modules/vite/dist/client/env.mjs
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /node_modules/vite/dist/client/env.mjs
-[run] 2022-10-10T06:51:32.137Z vite:cache [304] /node_modules/vite/dist/client/env.mjs
-[run] 2022-10-10T06:51:32.137Z vite:time 0.44ms /node_modules/vite/dist/client/env.mjs
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /src/App.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /src/App.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /src/App.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /src/App.vue
-[run] 2022-10-10T06:51:32.139Z vite:cache [304] /src/App.vue
-[run] 2022-10-10T06:51:32.139Z vite:time 0.39ms /src/App.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /src/index.css
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /src/index.css
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /src/index.css
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /src/index.css
-[run] 2022-10-10T06:51:32.139Z vite:cache [304] /src/index.css
-[run] 2022-10-10T06:51:32.139Z vite:time 0.30ms /src/index.css
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /@id/__x00__plugin-vue:export-helper
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /@id/__x00__plugin-vue:export-helper
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /@id/__x00__plugin-vue:export-helper
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /@id/__x00__plugin-vue:export-helper
-[run] 2022-10-10T06:51:32.147Z vite:cache [304] plugin-vue:export-helper
-[run] 2022-10-10T06:51:32.147Z vite:time 0.21ms /@id/__x00__plugin-vue:export-helper
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServeRawFsMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServeStaticMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteSpaFallbackMiddleware  : /
-[run] 2022-10-10T06:51:32.192Z vite:spa-fallback Rewriting GET / to /index.html
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteIndexHtmlMiddleware  : /
-[run] 2022-10-10T06:51:32.194Z vite:time 1.83ms /index.html
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /@vite/client
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /@vite/client
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /@vite/client
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /@vite/client
-[run] 2022-10-10T06:51:32.203Z vite:cache [304] /@vite/client
-[run] 2022-10-10T06:51:32.203Z vite:time 0.54ms /@vite/client
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /src/main.ts
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /src/main.ts
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /src/main.ts
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /src/main.ts
-[run] 2022-10-10T06:51:32.204Z vite:cache [304] /src/main.ts
-[run] 2022-10-10T06:51:32.204Z vite:time 0.35ms /src/main.ts
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /node_modules/vite/dist/client/env.mjs
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /node_modules/vite/dist/client/env.mjs
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /node_modules/vite/dist/client/env.mjs
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /node_modules/vite/dist/client/env.mjs
-[run] 2022-10-10T06:51:32.207Z vite:cache [304] /node_modules/vite/dist/client/env.mjs
-[run] 2022-10-10T06:51:32.207Z vite:time 0.46ms /node_modules/vite/dist/client/env.mjs
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /src/App.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /src/App.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /src/App.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /src/App.vue
-[run] 2022-10-10T06:51:32.208Z vite:cache [304] /src/App.vue
-[run] 2022-10-10T06:51:32.208Z vite:time 0.47ms /src/App.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /src/index.css
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /src/index.css
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /src/index.css
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /src/index.css
-[run] 2022-10-10T06:51:32.209Z vite:cache [304] /src/index.css
-[run] 2022-10-10T06:51:32.209Z vite:time 0.36ms /src/index.css
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /@id/__x00__plugin-vue:export-helper
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /@id/__x00__plugin-vue:export-helper
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /@id/__x00__plugin-vue:export-helper
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /@id/__x00__plugin-vue:export-helper
-[run] 2022-10-10T06:51:32.217Z vite:cache [304] plugin-vue:export-helper
-[run] 2022-10-10T06:51:32.217Z vite:time 0.20ms /@id/__x00__plugin-vue:export-helper
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServeRawFsMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServeStaticMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteSpaFallbackMiddleware  : /
-[run] 2022-10-10T06:51:32.251Z vite:spa-fallback Rewriting GET / to /index.html
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteIndexHtmlMiddleware  : /
-[run] 2022-10-10T06:51:32.251Z vite:time 1.04ms /index.html
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /@vite/client
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /@vite/client
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /@vite/client
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /@vite/client
-[run] 2022-10-10T06:51:32.258Z vite:cache [304] /@vite/client
-[run] 2022-10-10T06:51:32.258Z vite:time 0.51ms /@vite/client
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /src/main.ts
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /src/main.ts
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /src/main.ts
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /src/main.ts
-[run] 2022-10-10T06:51:32.259Z vite:cache [304] /src/main.ts
-[run] 2022-10-10T06:51:32.259Z vite:time 0.31ms /src/main.ts
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /node_modules/vite/dist/client/env.mjs
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /node_modules/vite/dist/client/env.mjs
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /node_modules/vite/dist/client/env.mjs
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /node_modules/vite/dist/client/env.mjs
-[run] 2022-10-10T06:51:32.262Z vite:cache [304] /node_modules/vite/dist/client/env.mjs
-[run] 2022-10-10T06:51:32.262Z vite:time 0.46ms /node_modules/vite/dist/client/env.mjs
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /src/App.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /src/App.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /src/App.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /src/App.vue
-[run] 2022-10-10T06:51:32.263Z vite:cache [304] /src/App.vue
-[run] 2022-10-10T06:51:32.263Z vite:time 0.31ms /src/App.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /src/index.css
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /src/index.css
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /src/index.css
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /src/index.css
-[run] 2022-10-10T06:51:32.263Z vite:cache [304] /src/index.css
-[run] 2022-10-10T06:51:32.263Z vite:time 0.28ms /src/index.css
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /@id/__x00__plugin-vue:export-helper
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /@id/__x00__plugin-vue:export-helper
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /@id/__x00__plugin-vue:export-helper
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /@id/__x00__plugin-vue:export-helper
-[run] 2022-10-10T06:51:32.272Z vite:cache [304] plugin-vue:export-helper
-[run] 2022-10-10T06:51:32.272Z vite:time 0.21ms /@id/__x00__plugin-vue:export-helper
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServeRawFsMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServeStaticMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteSpaFallbackMiddleware  : /
-[run] 2022-10-10T06:51:32.316Z vite:spa-fallback Rewriting GET / to /index.html
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteIndexHtmlMiddleware  : /
-[run] 2022-10-10T06:51:32.317Z vite:time 1.65ms /index.html
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /@vite/client
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /@vite/client
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /@vite/client
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /@vite/client
-[run] 2022-10-10T06:51:32.325Z vite:cache [304] /@vite/client
-[run] 2022-10-10T06:51:32.325Z vite:time 0.84ms /@vite/client
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /src/main.ts
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /src/main.ts
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /src/main.ts
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /src/main.ts
-[run] 2022-10-10T06:51:32.327Z vite:cache [304] /src/main.ts
-[run] 2022-10-10T06:51:32.327Z vite:time 1.10ms /src/main.ts
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /node_modules/vite/dist/client/env.mjs
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /node_modules/vite/dist/client/env.mjs
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /node_modules/vite/dist/client/env.mjs
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /node_modules/vite/dist/client/env.mjs
-[run] 2022-10-10T06:51:32.331Z vite:cache [304] /node_modules/vite/dist/client/env.mjs
-[run] 2022-10-10T06:51:32.331Z vite:time 1.96ms /node_modules/vite/dist/client/env.mjs
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /src/App.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /src/App.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /src/App.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /src/App.vue
-[run] 2022-10-10T06:51:32.333Z vite:cache [304] /src/App.vue
-[run] 2022-10-10T06:51:32.333Z vite:time 0.90ms /src/App.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /src/index.css
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /src/index.css
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /src/index.css
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /src/index.css
-[run] 2022-10-10T06:51:32.335Z vite:cache [304] /src/index.css
-[run] 2022-10-10T06:51:32.335Z vite:time 0.97ms /src/index.css
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /@id/__x00__plugin-vue:export-helper
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /@id/__x00__plugin-vue:export-helper
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /@id/__x00__plugin-vue:export-helper
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /@id/__x00__plugin-vue:export-helper
-[run] 2022-10-10T06:51:32.340Z vite:cache [304] plugin-vue:export-helper
-[run] 2022-10-10T06:51:32.340Z vite:time 0.21ms /@id/__x00__plugin-vue:export-helper
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServeRawFsMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServeStaticMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteSpaFallbackMiddleware  : /
-[run] 2022-10-10T06:51:32.391Z vite:spa-fallback Rewriting GET / to /index.html
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteIndexHtmlMiddleware  : /
-[run] 2022-10-10T06:51:32.392Z vite:time 1.47ms /index.html
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /@vite/client
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /@vite/client
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /@vite/client
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /@vite/client
-[run] 2022-10-10T06:51:32.396Z vite:cache [304] /@vite/client
-[run] 2022-10-10T06:51:32.396Z vite:time 0.49ms /@vite/client
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /src/main.ts
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /src/main.ts
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /src/main.ts
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /src/main.ts
-[run] 2022-10-10T06:51:32.398Z vite:cache [304] /src/main.ts
-[run] 2022-10-10T06:51:32.398Z vite:time 0.86ms /src/main.ts
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /node_modules/vite/dist/client/env.mjs
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /node_modules/vite/dist/client/env.mjs
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /node_modules/vite/dist/client/env.mjs
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /node_modules/vite/dist/client/env.mjs
-[run] 2022-10-10T06:51:32.399Z vite:cache [304] /node_modules/vite/dist/client/env.mjs
-[run] 2022-10-10T06:51:32.399Z vite:time 0.80ms /node_modules/vite/dist/client/env.mjs
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /src/App.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /src/App.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /src/App.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /src/App.vue
-[run] 2022-10-10T06:51:32.401Z vite:cache [304] /src/App.vue
-[run] 2022-10-10T06:51:32.401Z vite:time 1.69ms /src/App.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /@id/__x00__plugin-vue:export-helper
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /@id/__x00__plugin-vue:export-helper
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /@id/__x00__plugin-vue:export-helper
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /@id/__x00__plugin-vue:export-helper
-[run] 2022-10-10T06:51:32.403Z vite:cache [304] plugin-vue:export-helper
-[run] 2022-10-10T06:51:32.403Z vite:time 1.42ms /@id/__x00__plugin-vue:export-helper
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /src/index.css
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /src/index.css
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /src/index.css
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /src/index.css
-[run] 2022-10-10T06:51:32.408Z vite:cache [304] /src/index.css
-[run] 2022-10-10T06:51:32.409Z vite:time 1.30ms /src/index.css
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServeRawFsMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServeStaticMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteSpaFallbackMiddleware  : /
-[run] 2022-10-10T06:51:32.462Z vite:spa-fallback Rewriting GET / to /index.html
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteIndexHtmlMiddleware  : /
-[run] 2022-10-10T06:51:32.462Z vite:time 1.04ms /index.html
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /@vite/client
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /@vite/client
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /@vite/client
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /@vite/client
-[run] 2022-10-10T06:51:32.469Z vite:cache [304] /@vite/client
-[run] 2022-10-10T06:51:32.470Z vite:time 0.67ms /@vite/client
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /src/main.ts
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /src/main.ts
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /src/main.ts
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /src/main.ts
-[run] 2022-10-10T06:51:32.470Z vite:cache [304] /src/main.ts
-[run] 2022-10-10T06:51:32.470Z vite:time 0.49ms /src/main.ts
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /src/views/IndexPage.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /src/views/IndexPage.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /src/views/IndexPage.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /src/views/IndexPage.vue
-[run] 2022-10-10T06:51:32.471Z vite:cache [304] /src/views/IndexPage.vue
-[run] 2022-10-10T06:51:32.472Z vite:time 0.51ms /src/views/IndexPage.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /node_modules/vite/dist/client/env.mjs
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /node_modules/vite/dist/client/env.mjs
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /node_modules/vite/dist/client/env.mjs
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /node_modules/vite/dist/client/env.mjs
-[run] 2022-10-10T06:51:32.475Z vite:cache [304] /node_modules/vite/dist/client/env.mjs
-[run] 2022-10-10T06:51:32.475Z vite:time 0.45ms /node_modules/vite/dist/client/env.mjs
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /src/App.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /src/App.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /src/App.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /src/App.vue
-[run] 2022-10-10T06:51:32.475Z vite:cache [304] /src/App.vue
-[run] 2022-10-10T06:51:32.475Z vite:time 0.30ms /src/App.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /src/index.css
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /src/index.css
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /src/index.css
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /src/index.css
-[run] 2022-10-10T06:51:32.476Z vite:cache [304] /src/index.css
-[run] 2022-10-10T06:51:32.476Z vite:time 0.26ms /src/index.css
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /@id/__x00__plugin-vue:export-helper
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /@id/__x00__plugin-vue:export-helper
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /@id/__x00__plugin-vue:export-helper
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /@id/__x00__plugin-vue:export-helper
-[run] 2022-10-10T06:51:32.485Z vite:cache [304] plugin-vue:export-helper
-[run] 2022-10-10T06:51:32.485Z vite:time 0.21ms /@id/__x00__plugin-vue:export-helper
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServeRawFsMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServeStaticMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteSpaFallbackMiddleware  : /
-[run] 2022-10-10T06:51:32.517Z vite:spa-fallback Rewriting GET / to /index.html
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteIndexHtmlMiddleware  : /
-[run] 2022-10-10T06:51:32.518Z vite:time 1.08ms /index.html
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /src/views/IndexPage.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /src/views/IndexPage.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /src/views/IndexPage.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /src/views/IndexPage.vue
-[run] 2022-10-10T06:51:32.525Z vite:cache [304] /src/views/IndexPage.vue
-[run] 2022-10-10T06:51:32.525Z vite:time 0.66ms /src/views/IndexPage.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /@vite/client
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /@vite/client
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /@vite/client
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /@vite/client
-[run] 2022-10-10T06:51:32.529Z vite:cache [304] /@vite/client
-[run] 2022-10-10T06:51:32.529Z vite:time 0.49ms /@vite/client
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /src/main.ts
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /src/main.ts
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /src/main.ts
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /src/main.ts
-[run] 2022-10-10T06:51:32.530Z vite:cache [304] /src/main.ts
-[run] 2022-10-10T06:51:32.530Z vite:time 0.31ms /src/main.ts
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /node_modules/vite/dist/client/env.mjs
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /node_modules/vite/dist/client/env.mjs
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /node_modules/vite/dist/client/env.mjs
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /node_modules/vite/dist/client/env.mjs
-[run] 2022-10-10T06:51:32.534Z vite:cache [304] /node_modules/vite/dist/client/env.mjs
-[run] 2022-10-10T06:51:32.534Z vite:time 0.44ms /node_modules/vite/dist/client/env.mjs
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /src/App.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /src/App.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /src/App.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /src/App.vue
-[run] 2022-10-10T06:51:32.534Z vite:cache [304] /src/App.vue
-[run] 2022-10-10T06:51:32.534Z vite:time 0.33ms /src/App.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /src/index.css
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /src/index.css
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /src/index.css
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /src/index.css
-[run] 2022-10-10T06:51:32.535Z vite:cache [304] /src/index.css
-[run] 2022-10-10T06:51:32.535Z vite:time 0.27ms /src/index.css
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /@id/__x00__plugin-vue:export-helper
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /@id/__x00__plugin-vue:export-helper
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /@id/__x00__plugin-vue:export-helper
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /@id/__x00__plugin-vue:export-helper
-[run] 2022-10-10T06:51:32.544Z vite:cache [304] plugin-vue:export-helper
-[run] 2022-10-10T06:51:32.544Z vite:time 0.20ms /@id/__x00__plugin-vue:export-helper
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServeRawFsMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServeStaticMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteSpaFallbackMiddleware  : /
-[run] 2022-10-10T06:51:32.578Z vite:spa-fallback Rewriting GET / to /index.html
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteIndexHtmlMiddleware  : /
-[run] 2022-10-10T06:51:32.579Z vite:time 1.00ms /index.html
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /@vite/client
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /@vite/client
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /@vite/client
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /@vite/client
-[run] 2022-10-10T06:51:32.588Z vite:cache [304] /@vite/client
-[run] 2022-10-10T06:51:32.588Z vite:time 0.49ms /@vite/client
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /src/main.ts
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /src/main.ts
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /src/main.ts
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /src/main.ts
-[run] 2022-10-10T06:51:32.589Z vite:cache [304] /src/main.ts
-[run] 2022-10-10T06:51:32.589Z vite:time 0.37ms /src/main.ts
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /node_modules/vite/dist/client/env.mjs
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /node_modules/vite/dist/client/env.mjs
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /node_modules/vite/dist/client/env.mjs
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /node_modules/vite/dist/client/env.mjs
-[run] 2022-10-10T06:51:32.592Z vite:cache [304] /node_modules/vite/dist/client/env.mjs
-[run] 2022-10-10T06:51:32.592Z vite:time 0.45ms /node_modules/vite/dist/client/env.mjs
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /src/App.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /src/App.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /src/App.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /src/App.vue
-[run] 2022-10-10T06:51:32.593Z vite:cache [304] /src/App.vue
-[run] 2022-10-10T06:51:32.593Z vite:time 0.59ms /src/App.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /src/index.css
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /src/index.css
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /src/index.css
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /src/index.css
-[run] 2022-10-10T06:51:32.593Z vite:cache [304] /src/index.css
-[run] 2022-10-10T06:51:32.593Z vite:time 0.35ms /src/index.css
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /@id/__x00__plugin-vue:export-helper
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /@id/__x00__plugin-vue:export-helper
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /@id/__x00__plugin-vue:export-helper
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /@id/__x00__plugin-vue:export-helper
-[run] 2022-10-10T06:51:32.606Z vite:cache [304] plugin-vue:export-helper
-[run] 2022-10-10T06:51:32.606Z vite:time 0.22ms /@id/__x00__plugin-vue:export-helper
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /src/views/IndexPage.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /src/views/IndexPage.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /src/views/IndexPage.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /src/views/IndexPage.vue
-[run] 2022-10-10T06:51:32.636Z vite:cache [304] /src/views/IndexPage.vue
-[run] 2022-10-10T06:51:32.636Z vite:time 0.43ms /src/views/IndexPage.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServeRawFsMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServeStaticMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteSpaFallbackMiddleware  : /
-[run] 2022-10-10T06:51:32.636Z vite:spa-fallback Rewriting GET / to /index.html
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteIndexHtmlMiddleware  : /
-[run] 2022-10-10T06:51:32.637Z vite:time 1.49ms /index.html
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /@vite/client
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /@vite/client
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /@vite/client
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /@vite/client
-[run] 2022-10-10T06:51:32.645Z vite:cache [304] /@vite/client
-[run] 2022-10-10T06:51:32.646Z vite:time 0.50ms /@vite/client
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /src/main.ts
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /src/main.ts
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /src/main.ts
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /src/main.ts
-[run] 2022-10-10T06:51:32.646Z vite:cache [304] /src/main.ts
-[run] 2022-10-10T06:51:32.646Z vite:time 0.31ms /src/main.ts
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /node_modules/vite/dist/client/env.mjs
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /node_modules/vite/dist/client/env.mjs
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /node_modules/vite/dist/client/env.mjs
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /node_modules/vite/dist/client/env.mjs
-[run] 2022-10-10T06:51:32.650Z vite:cache [304] /node_modules/vite/dist/client/env.mjs
-[run] 2022-10-10T06:51:32.650Z vite:time 0.41ms /node_modules/vite/dist/client/env.mjs
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /src/App.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /src/App.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /src/App.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /src/App.vue
-[run] 2022-10-10T06:51:32.652Z vite:cache [304] /src/App.vue
-[run] 2022-10-10T06:51:32.652Z vite:time 1.20ms /src/App.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /src/index.css
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /src/index.css
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /src/index.css
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /src/index.css
-[run] 2022-10-10T06:51:32.653Z vite:cache [304] /src/index.css
-[run] 2022-10-10T06:51:32.653Z vite:time 0.43ms /src/index.css
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /@id/__x00__plugin-vue:export-helper
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /@id/__x00__plugin-vue:export-helper
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /@id/__x00__plugin-vue:export-helper
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /@id/__x00__plugin-vue:export-helper
-[run] 2022-10-10T06:51:32.663Z vite:cache [304] plugin-vue:export-helper
-[run] 2022-10-10T06:51:32.663Z vite:time 0.20ms /@id/__x00__plugin-vue:export-helper
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /src/views/IndexPage.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /src/views/IndexPage.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /src/views/IndexPage.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /src/views/IndexPage.vue
-[run] 2022-10-10T06:51:32.693Z vite:cache [304] /src/views/IndexPage.vue
-[run] 2022-10-10T06:51:32.694Z vite:time 0.55ms /src/views/IndexPage.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServeRawFsMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServeStaticMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteSpaFallbackMiddleware  : /
-[run] 2022-10-10T06:51:32.694Z vite:spa-fallback Rewriting GET / to /index.html
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteIndexHtmlMiddleware  : /
-[run] 2022-10-10T06:51:32.695Z vite:time 1.33ms /index.html
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /@vite/client
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /@vite/client
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /@vite/client
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /@vite/client
-[run] 2022-10-10T06:51:32.702Z vite:cache [304] /@vite/client
-[run] 2022-10-10T06:51:32.702Z vite:time 0.50ms /@vite/client
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /src/main.ts
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /src/main.ts
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /src/main.ts
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /src/main.ts
-[run] 2022-10-10T06:51:32.702Z vite:cache [304] /src/main.ts
-[run] 2022-10-10T06:51:32.702Z vite:time 0.34ms /src/main.ts
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /node_modules/vite/dist/client/env.mjs
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /node_modules/vite/dist/client/env.mjs
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /node_modules/vite/dist/client/env.mjs
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /node_modules/vite/dist/client/env.mjs
-[run] 2022-10-10T06:51:32.706Z vite:cache [304] /node_modules/vite/dist/client/env.mjs
-[run] 2022-10-10T06:51:32.706Z vite:time 0.41ms /node_modules/vite/dist/client/env.mjs
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /src/App.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /src/App.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /src/App.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /src/App.vue
-[run] 2022-10-10T06:51:32.706Z vite:cache [304] /src/App.vue
-[run] 2022-10-10T06:51:32.706Z vite:time 0.32ms /src/App.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /src/index.css
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /src/index.css
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /src/index.css
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /src/index.css
-[run] 2022-10-10T06:51:32.707Z vite:cache [304] /src/index.css
-[run] 2022-10-10T06:51:32.707Z vite:time 0.27ms /src/index.css
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /@id/__x00__plugin-vue:export-helper
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /@id/__x00__plugin-vue:export-helper
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /@id/__x00__plugin-vue:export-helper
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /@id/__x00__plugin-vue:export-helper
-[run] 2022-10-10T06:51:32.715Z vite:cache [304] plugin-vue:export-helper
-[run] 2022-10-10T06:51:32.715Z vite:time 0.20ms /@id/__x00__plugin-vue:export-helper
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServeRawFsMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServeStaticMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteSpaFallbackMiddleware  : /
-[run] 2022-10-10T06:51:32.750Z vite:spa-fallback Rewriting GET / to /index.html
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteIndexHtmlMiddleware  : /
-[run] 2022-10-10T06:51:32.751Z vite:time 1.01ms /index.html
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /@vite/client
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /@vite/client
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /@vite/client
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /@vite/client
-[run] 2022-10-10T06:51:32.758Z vite:cache [304] /@vite/client
-[run] 2022-10-10T06:51:32.758Z vite:time 0.50ms /@vite/client
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /src/main.ts
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /src/main.ts
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /src/main.ts
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /src/main.ts
-[run] 2022-10-10T06:51:32.759Z vite:cache [304] /src/main.ts
-[run] 2022-10-10T06:51:32.759Z vite:time 0.36ms /src/main.ts
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /node_modules/vite/dist/client/env.mjs
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /node_modules/vite/dist/client/env.mjs
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /node_modules/vite/dist/client/env.mjs
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /node_modules/vite/dist/client/env.mjs
-[run] 2022-10-10T06:51:32.762Z vite:cache [304] /node_modules/vite/dist/client/env.mjs
-[run] 2022-10-10T06:51:32.762Z vite:time 0.42ms /node_modules/vite/dist/client/env.mjs
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /src/App.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /src/App.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /src/App.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /src/App.vue
-[run] 2022-10-10T06:51:32.763Z vite:cache [304] /src/App.vue
-[run] 2022-10-10T06:51:32.763Z vite:time 0.29ms /src/App.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /src/index.css
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /src/index.css
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /src/index.css
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /src/index.css
-[run] 2022-10-10T06:51:32.763Z vite:cache [304] /src/index.css
-[run] 2022-10-10T06:51:32.763Z vite:time 0.25ms /src/index.css
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /@id/__x00__plugin-vue:export-helper
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /@id/__x00__plugin-vue:export-helper
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /@id/__x00__plugin-vue:export-helper
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /@id/__x00__plugin-vue:export-helper
-[run] 2022-10-10T06:51:32.771Z vite:cache [304] plugin-vue:export-helper
-[run] 2022-10-10T06:51:32.771Z vite:time 0.20ms /@id/__x00__plugin-vue:export-helper
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /src/views/IndexPage.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /src/views/IndexPage.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /src/views/IndexPage.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /src/views/IndexPage.vue
-[run] 2022-10-10T06:51:32.802Z vite:cache [304] /src/views/IndexPage.vue
-[run] 2022-10-10T06:51:32.803Z vite:time 0.51ms /src/views/IndexPage.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServeRawFsMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServeStaticMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteSpaFallbackMiddleware  : /
-[run] 2022-10-10T06:51:32.807Z vite:spa-fallback Rewriting GET / to /index.html
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteIndexHtmlMiddleware  : /
-[run] 2022-10-10T06:51:32.808Z vite:time 1.26ms /index.html
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /@vite/client
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /@vite/client
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /@vite/client
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /@vite/client
-[run] 2022-10-10T06:51:32.815Z vite:cache [304] /@vite/client
-[run] 2022-10-10T06:51:32.815Z vite:time 0.56ms /@vite/client
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /src/main.ts
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /src/main.ts
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /src/main.ts
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /src/main.ts
-[run] 2022-10-10T06:51:32.816Z vite:cache [304] /src/main.ts
-[run] 2022-10-10T06:51:32.816Z vite:time 0.45ms /src/main.ts
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /node_modules/vite/dist/client/env.mjs
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /node_modules/vite/dist/client/env.mjs
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /node_modules/vite/dist/client/env.mjs
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /node_modules/vite/dist/client/env.mjs
-[run] 2022-10-10T06:51:32.818Z vite:cache [304] /node_modules/vite/dist/client/env.mjs
-[run] 2022-10-10T06:51:32.818Z vite:time 0.51ms /node_modules/vite/dist/client/env.mjs
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /src/App.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /src/App.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /src/App.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /src/App.vue
-[run] 2022-10-10T06:51:32.822Z vite:cache [304] /src/App.vue
-[run] 2022-10-10T06:51:32.822Z vite:time 2.87ms /src/App.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /src/index.css
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /src/index.css
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /src/index.css
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /src/index.css
-[run] 2022-10-10T06:51:32.822Z vite:cache [304] /src/index.css
-[run] 2022-10-10T06:51:32.822Z vite:time 0.30ms /src/index.css
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /@id/__x00__plugin-vue:export-helper
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /@id/__x00__plugin-vue:export-helper
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /@id/__x00__plugin-vue:export-helper
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /@id/__x00__plugin-vue:export-helper
-[run] 2022-10-10T06:51:32.829Z vite:cache [304] plugin-vue:export-helper
-[run] 2022-10-10T06:51:32.829Z vite:time 0.21ms /@id/__x00__plugin-vue:export-helper
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /src/views/IndexPage.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /src/views/IndexPage.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /src/views/IndexPage.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /src/views/IndexPage.vue
-[run] 2022-10-10T06:51:32.859Z vite:cache [304] /src/views/IndexPage.vue
-[run] 2022-10-10T06:51:32.859Z vite:time 0.45ms /src/views/IndexPage.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServeRawFsMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServeStaticMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteSpaFallbackMiddleware  : /
-[run] 2022-10-10T06:51:32.864Z vite:spa-fallback Rewriting GET / to /index.html
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteIndexHtmlMiddleware  : /
-[run] 2022-10-10T06:51:32.865Z vite:time 1.00ms /index.html
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /@vite/client
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /@vite/client
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /@vite/client
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /@vite/client
-[run] 2022-10-10T06:51:32.872Z vite:cache [304] /@vite/client
-[run] 2022-10-10T06:51:32.872Z vite:time 0.50ms /@vite/client
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /src/main.ts
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /src/main.ts
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /src/main.ts
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /src/main.ts
-[run] 2022-10-10T06:51:32.872Z vite:cache [304] /src/main.ts
-[run] 2022-10-10T06:51:32.872Z vite:time 0.28ms /src/main.ts
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /node_modules/vite/dist/client/env.mjs
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /node_modules/vite/dist/client/env.mjs
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /node_modules/vite/dist/client/env.mjs
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /node_modules/vite/dist/client/env.mjs
-[run] 2022-10-10T06:51:32.876Z vite:cache [304] /node_modules/vite/dist/client/env.mjs
-[run] 2022-10-10T06:51:32.876Z vite:time 0.60ms /node_modules/vite/dist/client/env.mjs
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /src/App.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /src/App.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /src/App.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /src/App.vue
-[run] 2022-10-10T06:51:32.876Z vite:cache [304] /src/App.vue
-[run] 2022-10-10T06:51:32.876Z vite:time 0.35ms /src/App.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /src/index.css
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /src/index.css
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /src/index.css
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /src/index.css
-[run] 2022-10-10T06:51:32.877Z vite:cache [304] /src/index.css
-[run] 2022-10-10T06:51:32.877Z vite:time 0.48ms /src/index.css
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /@id/__x00__plugin-vue:export-helper
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /@id/__x00__plugin-vue:export-helper
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /@id/__x00__plugin-vue:export-helper
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /@id/__x00__plugin-vue:export-helper
-[run] 2022-10-10T06:51:32.887Z vite:cache [304] plugin-vue:export-helper
-[run] 2022-10-10T06:51:32.887Z vite:time 0.19ms /@id/__x00__plugin-vue:export-helper
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /src/views/IndexPage.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /src/views/IndexPage.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /src/views/IndexPage.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /src/views/IndexPage.vue
-[run] 2022-10-10T06:51:32.918Z vite:cache [304] /src/views/IndexPage.vue
-[run] 2022-10-10T06:51:32.918Z vite:time 0.44ms /src/views/IndexPage.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServeRawFsMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServeStaticMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteSpaFallbackMiddleware  : /
-[run] 2022-10-10T06:51:32.919Z vite:spa-fallback Rewriting GET / to /index.html
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteIndexHtmlMiddleware  : /
-[run] 2022-10-10T06:51:32.920Z vite:time 0.98ms /index.html
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /@vite/client
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /@vite/client
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /@vite/client
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /@vite/client
-[run] 2022-10-10T06:51:32.927Z vite:cache [304] /@vite/client
-[run] 2022-10-10T06:51:32.927Z vite:time 0.69ms /@vite/client
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /src/main.ts
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /src/main.ts
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /src/main.ts
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /src/main.ts
-[run] 2022-10-10T06:51:32.928Z vite:cache [304] /src/main.ts
-[run] 2022-10-10T06:51:32.928Z vite:time 0.34ms /src/main.ts
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /node_modules/vite/dist/client/env.mjs
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /node_modules/vite/dist/client/env.mjs
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /node_modules/vite/dist/client/env.mjs
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /node_modules/vite/dist/client/env.mjs
-[run] 2022-10-10T06:51:32.931Z vite:cache [304] /node_modules/vite/dist/client/env.mjs
-[run] 2022-10-10T06:51:32.931Z vite:time 0.42ms /node_modules/vite/dist/client/env.mjs
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /src/App.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /src/App.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /src/App.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /src/App.vue
-[run] 2022-10-10T06:51:32.933Z vite:cache [304] /src/App.vue
-[run] 2022-10-10T06:51:32.933Z vite:time 0.35ms /src/App.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /src/index.css
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /src/index.css
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /src/index.css
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /src/index.css
-[run] 2022-10-10T06:51:32.933Z vite:cache [304] /src/index.css
-[run] 2022-10-10T06:51:32.933Z vite:time 0.30ms /src/index.css
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /@id/__x00__plugin-vue:export-helper
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /@id/__x00__plugin-vue:export-helper
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /@id/__x00__plugin-vue:export-helper
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /@id/__x00__plugin-vue:export-helper
-[run] 2022-10-10T06:51:32.945Z vite:cache [304] plugin-vue:export-helper
-[run] 2022-10-10T06:51:32.945Z vite:time 0.19ms /@id/__x00__plugin-vue:export-helper
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /src/views/IndexPage.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /src/views/IndexPage.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /src/views/IndexPage.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /src/views/IndexPage.vue
-[run] 2022-10-10T06:51:32.975Z vite:cache [304] /src/views/IndexPage.vue
-[run] 2022-10-10T06:51:32.975Z vite:time 0.42ms /src/views/IndexPage.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServeRawFsMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServeStaticMiddleware  : /
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteSpaFallbackMiddleware  : /
-[run] 2022-10-10T06:51:32.976Z vite:spa-fallback Rewriting GET / to /index.html
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteIndexHtmlMiddleware  : /
-[run] 2022-10-10T06:51:32.976Z vite:time 1.02ms /index.html
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /@vite/client
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /@vite/client
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /@vite/client
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /@vite/client
-[run] 2022-10-10T06:51:32.983Z vite:cache [304] /@vite/client
-[run] 2022-10-10T06:51:32.983Z vite:time 0.48ms /@vite/client
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /src/main.ts
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /src/main.ts
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /src/main.ts
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /src/main.ts
-[run] 2022-10-10T06:51:32.984Z vite:cache [304] /src/main.ts
-[run] 2022-10-10T06:51:32.984Z vite:time 0.32ms /src/main.ts
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /node_modules/vite/dist/client/env.mjs
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /node_modules/vite/dist/client/env.mjs
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /node_modules/vite/dist/client/env.mjs
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /node_modules/vite/dist/client/env.mjs
-[run] 2022-10-10T06:51:32.986Z vite:cache [304] /node_modules/vite/dist/client/env.mjs
-[run] 2022-10-10T06:51:32.986Z vite:time 0.39ms /node_modules/vite/dist/client/env.mjs
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /src/App.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /src/App.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /src/App.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /src/App.vue
-[run] 2022-10-10T06:51:32.987Z vite:cache [304] /src/App.vue
-[run] 2022-10-10T06:51:32.987Z vite:time 0.34ms /src/App.vue
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /src/index.css
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /src/index.css
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /src/index.css
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /src/index.css
-[run] 2022-10-10T06:51:32.987Z vite:cache [304] /src/index.css
-[run] 2022-10-10T06:51:32.988Z vite:time 0.28ms /src/index.css
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTimeMiddleware  : /@id/__x00__plugin-vue:export-helper
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher corsMiddleware  : /@id/__x00__plugin-vue:export-helper
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteServePublicMiddleware  : /@id/__x00__plugin-vue:export-helper
-[run] Mon, 10 Oct 2022 06:51:32 GMT connect:dispatcher viteTransformMiddleware  : /@id/__x00__plugin-vue:export-helper
-[run] 2022-10-10T06:51:32.997Z vite:cache [304] plugin-vue:export-helper
-[run] 2022-10-10T06:51:32.997Z vite:time 0.19ms /@id/__x00__plugin-vue:export-helper
+
+> template-vitejs-vue3-tailwindcss-fontawesome@0.0.0 prestart
+> cd api && tsc
+
+
+> template-vitejs-vue3-tailwindcss-fontawesome@0.0.0 start
+> npx @azure/static-web-apps-cli start https://localhost:5173 --swa-config-location ./ -s -e cert.pem -k key.pem -p 8788 --api-location ./api -t 120 --verbose silly --run 'npm run dev'
+
+
+Welcome to Azure Static Web Apps CLI (1.0.3)
+
+Getting config file options from swa-cli.config.json...
+Config file does not exist at /Users/---/Development/azure-swa-clib-bug-580/swa-cli.config.json
+Checking if localhost:8788 is accepting TCP connections...
+Port 8788 is available. Use it.
+Resolved port number: 8788
+appDevserverUrl provided, we will try connect to dev server at .
+Trying to read workflow config with values:
+ - appLocation: /Users/---/Development/azure-swa-clib-bug-580
+ - outputLocation: https://localhost:5173
+ - apiLocation: /Users/---/Development/azure-swa-clib-bug-580/api
+Found a SWA workflow file: /Users/---/Development/azure-swa-clib-bug-580/.github/workflows/azure-static-web-apps-fake.yml
+ - app_build_command: <undefined>
+ - api_build_command: <undefined>
+ - app_location: /
+ - output_location: dist
+ - api_location: api
+Validating user workflow config (BEFORE):
+ - appLocation: /Users/---/Development/azure-swa-clib-bug-580
+ - outputLocation: https://localhost:5173
+ - apiLocation: /Users/---/Development/azure-swa-clib-bug-580/api
+Validating user workflow config (AFTER):
+ - appLocation: /Users/---/Development/azure-swa-clib-bug-580
+ - apiLocation: /Users/---/Development/azure-swa-clib-bug-580/api
+ - outputLocation: https://localhost:5173
+Workflow configuration:
+- config:
+  - appBuildCommand: <undefined>
+  - apiBuildCommand: <undefined>
+  - appLocation: /Users/---/Development/azure-swa-clib-bug-580
+  - apiLocation: /Users/---/Development/azure-swa-clib-bug-580/api
+  - outputLocation: https://localhost:5173
+ - files:
+   - 0: /Users/---/Development/azure-swa-clib-bug-580/.github/workflows/azure-static-web-apps-fake.yml
+User workflow config:
+ - appBuildCommand: <undefined>
+ - apiBuildCommand: <undefined>
+ - appLocation: /Users/---/Development/azure-swa-clib-bug-580
+ - apiLocation: /Users/---/Development/azure-swa-clib-bug-580/api
+ - outputLocation: https://localhost:5173
+- files:
+  - 0: /Users/---/Development/azure-swa-clib-bug-580/.github/workflows/azure-static-web-apps-fake.yml
+Starting the SWA emulator with the following configuration:
+- ssl:
+  - 0: true
+  - 1: /Users/---/Development/azure-swa-clib-bug-580/cert.pem
+  - 2: /Users/---/Development/azure-swa-clib-bug-580/key.pem
+- env:
+  - SWA_RUNTIME_CONFIG_LOCATION: /Users/---/Development/azure-swa-clib-bug-580
+  - SWA_RUNTIME_WORKFLOW_LOCATION: /Users/---/Development/azure-swa-clib-bug-580/.github/workflows/azure-static-web-apps-fake.yml
+  - SWA_CLI_DEBUG: silly
+  - SWA_CLI_API_PORT: 7071
+  - SWA_CLI_APP_LOCATION: /Users/---/Development/azure-swa-clib-bug-580
+  - SWA_CLI_OUTPUT_LOCATION: https://localhost:5173
+  - SWA_CLI_API_LOCATION: /Users/---/Development/azure-swa-clib-bug-580/api
+  - SWA_CLI_HOST: localhost
+  - SWA_CLI_PORT: 8788
+  - SWA_CLI_APP_SSL: true
+  - SWA_CLI_APP_SSL_CERT: /Users/---/Development/azure-swa-clib-bug-580/cert.pem
+  - SWA_CLI_APP_SSL_KEY: /Users/---/Development/azure-swa-clib-bug-580/key.pem
+  - SWA_CLI_STARTUP_COMMAND: npm run dev
+  - SWA_CLI_VERSION: 1.0.3
+  - SWA_CLI_SERVER_TIMEOUT: 120
+  - SWA_CLI_OPEN_BROWSER: false
+- commands:
+  - swa: node "/Users/---/Development/azure-swa-clib-bug-580/node_modules/@azure/static-web-apps-cli/dist/msha/server.js"
+  - api: cd "/Users/---/Development/azure-swa-clib-bug-580/api" && /Users/---/.swa/core-tools/v4/func start --cors "*" --port 7071 
+  - run: cd "/Users/---/Development/azure-swa-clib-bug-580" && npm run dev
+[api] Can't determine project language from files. Please use one of [--csharp, --javascript, --typescript, --java, --python, --powershell, --custom]
+[api] Can't determine project language from files. Please use one of [--csharp, --javascript, --typescript, --java, --python, --powershell, --custom]
+[api] Can't determine project language from files. Please use one of [--csharp, --javascript, --typescript, --java, --python, --powershell, --custom]
+[api] 
+[api] Azure Functions Core Tools
+[api] Core Tools Version:       4.0.4785 Commit hash: N/A  (64-bit)
+[api] Function Runtime Version: 4.10.4.19213
+[api] 
+[run] 
+[run] > template-vitejs-vue3-tailwindcss-fontawesome@0.0.0 dev
+[run] > vite
+[run] 
+[api] Can't determine project language from files. Please use one of [--csharp, --javascript, --typescript, --java, --python, --powershell, --custom]
+[api] Can't determine project language from files. Please use one of [--csharp, --javascript, --typescript, --java, --python, --powershell, --custom]
+[api] Can't determine project language from files. Please use one of [--csharp, --javascript, --typescript, --java, --python, --powershell, --custom]
+[swa] 
+[swa] Using workflow file:
+[swa]   /Users/---/Development/azure-swa-clib-bug-580/.github/workflows/azure-static-web-apps-fake.yml
+[swa] Loading staticwebapp.config.json schema...
+[run] 2022-10-10T07:15:06.127Z vite:config bundled config file loaded in 266.65ms
+[run] 2022-10-10T07:15:06.133Z vite:esbuild init tsconfck (root: /Users/---/Development/azure-swa-clib-bug-580)
+[run] 2022-10-10T07:15:06.133Z vite:esbuild init tsconfck (root: /Users/---/Development/azure-swa-clib-bug-580)
+[run] 2022-10-10T07:15:06.137Z vite:esbuild init tsconfck end
+[run] 2022-10-10T07:15:06.137Z vite:esbuild init tsconfck end
+[run] 2022-10-10T07:15:06.141Z vite:config using resolved config: {
+[run]   plugins: [
+[run]     'vite:pre-alias',
+[run]     'alias',
+[run]     'vite:modulepreload-polyfill',
+[run]     'vite:optimized-deps',
+[run]     'vite:resolve',
+[run]     'vite:html-inline-proxy',
+[run]     'vite:css',
+[run]     'vite:esbuild',
+[run]     'vite:json',
+[run]     'vite:wasm-helper',
+[run]     'vite:worker',
+[run]     'vite:asset',
+[run]     'vite:vue',
+[run]     'vite-plugin-fontawesomeminify',
+[run]     'vite:wasm-fallback',
+[run]     'vite:define',
+[run]     'vite:css-post',
+[run]     'vite:worker-import-meta-url',
+[run]     'vite:dynamic-import-vars',
+[run]     'vite:import-glob',
+[run]     'vite:client-inject',
+[run]     'vite:import-analysis'
+[run]   ],
+[run]   resolve: { alias: [ [Object], [Object], [Object], [Object], [Object] ] },
+[run]   server: {
+[run]     preTransformRequests: true,
+[run]     https: {
+[run]       key: <Buffer 2d 2d 2d 2d 2d 42 45 47 49 4e 20 50 52 49 56 41 54 45 20 4b 45 59 2d 2d 2d 2d 2d 0a 4d 49 49 4a 51 77 49 42 41 44 41 4e 42 67 6b 71 68 6b 69 47 39 77 ... 3222 more bytes>,
+[run]       cert: <Buffer 2d 2d 2d 2d 2d 42 45 47 49 4e 20 43 45 52 54 49 46 49 43 41 54 45 2d 2d 2d 2d 2d 0a 4d 49 49 46 37 54 43 43 41 39 57 67 41 77 49 42 41 67 49 55 57 36 ... 2064 more bytes>
+[run]     },
+[run]     middlewareMode: false,
+[run]     fs: { strict: true, allow: [Array], deny: [Array] }
+[run]   },
+[run]   optimizeDeps: {
+[run]     disabled: 'build',
+[run]     force: undefined,
+[run]     esbuildOptions: { preserveSymlinks: undefined }
+[run]   },
+[run]   define: { __VUE_OPTIONS_API__: true, __VUE_PROD_DEVTOOLS__: false },
+[run]   ssr: {
+[run]     format: 'esm',
+[run]     target: 'node',
+[run]     external: [],
+[run]     optimizeDeps: { disabled: true, esbuildOptions: [Object] }
+[run]   },
+[run]   configFile: '/Users/---/Development/azure-swa-clib-bug-580/vite.config.ts',
+[run]   configFileDependencies: [
+[run]     '/Users/---/Development/azure-swa-clib-bug-580/fontawesome/index.ts',
+[run]     '/Users/---/Development/azure-swa-clib-bug-580/vite.config.ts'
+[run]   ],
+[run]   inlineConfig: {
+[run]     root: undefined,
+[run]     base: undefined,
+[run]     mode: undefined,
+[run]     configFile: undefined,
+[run]     logLevel: undefined,
+[run]     clearScreen: undefined,
+[run]     optimizeDeps: { force: undefined },
+[run]     server: {}
+[run]   },
+[run]   root: '/Users/---/Development/azure-swa-clib-bug-580',
+[run]   base: '/',
+[run]   publicDir: '/Users/---/Development/azure-swa-clib-bug-580/public',
+[run]   cacheDir: '/Users/---/Development/azure-swa-clib-bug-580/node_modules/.vite',
+[run]   command: 'serve',
+[run]   mode: 'development',
+[run]   isWorker: false,
+[run]   mainConfig: null,
+[run]   isProduction: false,
+[run]   build: {
+[run]     target: [ 'es2020', 'edge88', 'firefox78', 'chrome87', 'safari13' ],
+[run]     polyfillModulePreload: true,
+[run]     outDir: 'dist',
+[run]     assetsDir: 'assets',
+[run]     assetsInlineLimit: 4096,
+[run]     cssCodeSplit: true,
+[run]     cssTarget: [ 'es2020', 'edge88', 'firefox78', 'chrome87', 'safari13' ],
+[run]     sourcemap: false,
+[run]     rollupOptions: {},
+[run]     minify: 'esbuild',
+[run]     terserOptions: {},
+[run]     write: true,
+[run]     emptyOutDir: null,
+[run]     manifest: false,
+[run]     lib: false,
+[run]     ssr: false,
+[run]     ssrManifest: false,
+[run]     reportCompressedSize: true,
+[run]     chunkSizeWarningLimit: 500,
+[run]     watch: null,
+[run]     commonjsOptions: { include: [Array], extensions: [Array] },
+[run]     dynamicImportVarsOptions: { warnOnError: true, exclude: [Array] }
+[run]   },
+[run]   preview: {
+[run]     port: undefined,
+[run]     strictPort: undefined,
+[run]     host: undefined,
+[run]     https: {
+[run]       key: <Buffer 2d 2d 2d 2d 2d 42 45 47 49 4e 20 50 52 49 56 41 54 45 20 4b 45 59 2d 2d 2d 2d 2d 0a 4d 49 49 4a 51 77 49 42 41 44 41 4e 42 67 6b 71 68 6b 69 47 39 77 ... 3222 more bytes>,
+[run]       cert: <Buffer 2d 2d 2d 2d 2d 42 45 47 49 4e 20 43 45 52 54 49 46 49 43 41 54 45 2d 2d 2d 2d 2d 0a 4d 49 49 46 37 54 43 43 41 39 57 67 41 77 49 42 41 67 49 55 57 36 ... 2064 more bytes>
+[run]     },
+[run]     open: undefined,
+[run]     proxy: undefined,
+[run]     cors: undefined,
+[run]     headers: undefined
+[run]   },
+[run]   env: { BASE_URL: '/', MODE: 'development', DEV: true, PROD: false },
+[run]   assetsInclude: [Function: assetsInclude],
+[run]   logger: {
+[run]     hasWarned: false,
+[run]     info: [Function: info],
+[run]     warn: [Function: warn],
+[run]     warnOnce: [Function: warnOnce],
+[run]     error: [Function: error],
+[run]     clearScreen: [Function: clearScreen],
+[run]     hasErrorLogged: [Function: hasErrorLogged]
+[run]   },
+[run]   packageCache: Map(0) {},
+[run]   createResolver: [Function: createResolver],
+[run]   worker: {
+[run]     format: 'iife',
+[run]     plugins: [
+[run]       'vite:pre-alias',
+[run]       'alias',
+[run]       'vite:modulepreload-polyfill',
+[run]       'vite:optimized-deps',
+[run]       'vite:resolve',
+[run]       'vite:html-inline-proxy',
+[run]       'vite:css',
+[run]       'vite:esbuild',
+[run]       'vite:json',
+[run]       'vite:wasm-helper',
+[run]       'vite:worker',
+[run]       'vite:asset',
+[run]       'vite:wasm-fallback',
+[run]       'vite:define',
+[run]       'vite:css-post',
+[run]       'vite:worker-import-meta-url',
+[run]       'vite:dynamic-import-vars',
+[run]       'vite:import-glob',
+[run]       'vite:client-inject',
+[run]       'vite:import-analysis'
+[run]     ],
+[run]     rollupOptions: {},
+[run]     getSortedPlugins: [Function: getSortedPlugins],
+[run]     getSortedPluginHooks: [Function: getSortedPluginHooks]
+[run]   },
+[run]   appType: 'spa',
+[run]   experimental: { importGlobRestoreExtension: false, hmrPartialAccept: false },
+[run]   getSortedPlugins: [Function: getSortedPlugins],
+[run]   getSortedPluginHooks: [Function: getSortedPluginHooks]
+[run] }
+[run] Mon, 10 Oct 2022 07:15:06 GMT connect:dispatcher use / viteTimeMiddleware
+[run] Mon, 10 Oct 2022 07:15:06 GMT connect:dispatcher use / corsMiddleware
+[run] Mon, 10 Oct 2022 07:15:06 GMT connect:dispatcher use /__open-in-editor launchEditorMiddleware
+[run] Mon, 10 Oct 2022 07:15:06 GMT connect:dispatcher use / viteServePublicMiddleware
+[run] Mon, 10 Oct 2022 07:15:06 GMT connect:dispatcher use / viteTransformMiddleware
+[run] Mon, 10 Oct 2022 07:15:06 GMT connect:dispatcher use / viteServeRawFsMiddleware
+[run] Mon, 10 Oct 2022 07:15:06 GMT connect:dispatcher use / viteServeStaticMiddleware
+[run] Mon, 10 Oct 2022 07:15:06 GMT connect:dispatcher use / viteSpaFallbackMiddleware
+[run] Mon, 10 Oct 2022 07:15:06 GMT connect:dispatcher use / viteIndexHtmlMiddleware
+[run] Mon, 10 Oct 2022 07:15:06 GMT connect:dispatcher use / vite404Middleware
+[run] Mon, 10 Oct 2022 07:15:06 GMT connect:dispatcher use / viteErrorMiddleware
+[run] 2022-10-10T07:15:06.223Z vite:deps Hash is consistent. Skipping. Use --force to override.
+[run] 
+[run]   VITE v3.1.4  ready in 476 ms
+[run] 
+[run]   ➜  Local:   https://127.0.0.1:5173/
+[run]   ➜  Network: use --host to expose
+[swa] Schema loaded successfully from https://json.schemastore.org/staticwebapp.config.json
+[swa] Compiling schema...
+[swa] Reading content from staticwebapp.config.json...
+[swa] Parsing staticwebapp.config.json...
+[swa] Validating staticwebapp.config.json...
+[swa] File validated successfully. Continuing with configuration!
+[swa] Content parsed successfully
+[swa] 
+[swa] Found configuration file:
+[swa]   /Users/---/Development/azure-swa-clib-bug-580/staticwebapp.config.json
+[swa] 
+[swa] Validating dev server config:
+[swa]  - url: https://localhost:5173
+[swa]  - timeout: 120
+[swa] Checking if localhost:5173 is accepting TCP connections...
+[swa] Validating dev server config:
+[swa]  - url: http://localhost:7071
+[swa]  - timeout: 120
+[swa] Checking if localhost:7071 is accepting TCP connections...
+[swa] - Waiting for http://localhost:7071 to be ready
+[api] [2022-10-10T07:15:38.871Z] Building host: startup suppressed: 'False', configuration suppressed: 'False', startup operation id: '578832f0-2e72-41ae-bdc4-8f05a5d41169'
+[api] [2022-10-10T07:15:38.879Z] Reading host configuration file '/Users/---/Development/azure-swa-clib-bug-580/api/host.json'
+[api] [2022-10-10T07:15:38.880Z] Host configuration file read:
+[api] [2022-10-10T07:15:38.880Z] {
+[api] [2022-10-10T07:15:38.880Z]   "version": "2.0",
+[api] [2022-10-10T07:15:38.880Z]   "logging": {
+[api] [2022-10-10T07:15:38.880Z]     "logLevel": {
+[api] [2022-10-10T07:15:38.880Z]       "Default": "Information"
+[api] [2022-10-10T07:15:38.880Z]     },
+[api] [2022-10-10T07:15:38.880Z]     "applicationInsights": {
+[api] [2022-10-10T07:15:38.880Z]       "samplingSettings": {
+[api] [2022-10-10T07:15:38.880Z]         "isEnabled": true,
+[api] [2022-10-10T07:15:38.880Z]         "excludedTypes": "Request"
+[api] [2022-10-10T07:15:38.880Z]       }
+[api] [2022-10-10T07:15:38.880Z]     }
+[api] [2022-10-10T07:15:38.880Z]   },
+[api] [2022-10-10T07:15:38.880Z]   "extensionBundle": {
+[api] [2022-10-10T07:15:38.880Z]     "id": "Microsoft.Azure.Functions.ExtensionBundle",
+[2022-10-10T07:15:38.880Z]     "version": "[3.*, 4.0.0)"
+[api] [2022-10-10T07:15:38.880Z]   }
+[api] [2022-10-10T07:15:38.880Z] }
+[api] [2022-10-10T07:15:38.942Z] Looking for extension bundle Microsoft.Azure.Functions.ExtensionBundle at /Users/---/.azure-functions-core-tools/Functions/ExtensionBundles/Microsoft.Azure.Functions.ExtensionBundle
+[api] [2022-10-10T07:15:38.944Z] Found a matching extension bundle at /Users/---/.azure-functions-core-tools/Functions/ExtensionBundles/Microsoft.Azure.Functions.ExtensionBundle/3.15.0
+[api] [2022-10-10T07:15:38.959Z] Loading functions metadata
+[api] [2022-10-10T07:15:38.961Z] Reading functions metadata
+[api] [2022-10-10T07:15:38.962Z] Reading functions metadata
+[api] [2022-10-10T07:15:38.972Z] 1 functions found
+[api] [2022-10-10T07:15:38.973Z] 1 functions found
+[api] [2022-10-10T07:15:38.982Z] 1 functions loaded
+[api] [2022-10-10T07:15:38.984Z] Looking for extension bundle Microsoft.Azure.Functions.ExtensionBundle at /Users/---/.azure-functions-core-tools/Functions/ExtensionBundles/Microsoft.Azure.Functions.ExtensionBundle
+[api] [2022-10-10T07:15:38.984Z] Found a matching extension bundle at /Users/---/.azure-functions-core-tools/Functions/ExtensionBundles/Microsoft.Azure.Functions.ExtensionBundle/3.15.0
+[api] [2022-10-10T07:15:38.985Z] Fetching information on versions of extension bundle Microsoft.Azure.Functions.ExtensionBundle available on https://functionscdn.azureedge.net/public/ExtensionBundles/Microsoft.Azure.Functions.ExtensionBundle/index.json
+[api] [2022-10-10T07:15:39.251Z] Skipping bundle download since it already exists at path /Users/---/.azure-functions-core-tools/Functions/ExtensionBundles/Microsoft.Azure.Functions.ExtensionBundle/3.15.0
+[api] [2022-10-10T07:15:39.256Z] Loading extension bundle from /Users/---/.azure-functions-core-tools/Functions/ExtensionBundles/Microsoft.Azure.Functions.ExtensionBundle/3.15.0/bin
+[api] [2022-10-10T07:15:39.256Z] Script Startup resetting load context with base path: '/Users/---/.azure-functions-core-tools/Functions/ExtensionBundles/Microsoft.Azure.Functions.ExtensionBundle/3.15.0/bin'.
+[api] [2022-10-10T07:15:39.265Z] Reading host configuration file '/Users/---/Development/azure-swa-clib-bug-580/api/host.json'
+[api] [2022-10-10T07:15:39.266Z] Host configuration file read:
+[api] [2022-10-10T07:15:39.266Z] {
+[api] [2022-10-10T07:15:39.266Z]   "version": "2.0",
+[api] [2022-10-10T07:15:39.266Z]   "logging": {
+[api] [2022-10-10T07:15:39.266Z]     "logLevel": {
+[api] [2022-10-10T07:15:39.266Z]       "Default": "Information"
+[api] [2022-10-10T07:15:39.266Z]     },
+[api] [2022-10-10T07:15:39.266Z]     "applicationInsights": {
+[api] [2022-10-10T07:15:39.266Z]       "samplingSettings": {
+[api] [2022-10-10T07:15:39.266Z]         "isEnabled": true,
+[api] [2022-10-10T07:15:39.266Z]         "excludedTypes": "Request"
+[api] [2022-10-10T07:15:39.266Z]       }
+[api] [2022-10-10T07:15:39.266Z]     }
+[api] [2022-10-10T07:15:39.266Z]   },
+[api] [2022-10-10T07:15:39.266Z]   "extensionBundle": {
+[api] [2022-10-10T07:15:39.266Z]     "id": "Microsoft.Azure.Functions.ExtensionBundle",
+[api] [2022-10-10T07:15:39.266Z]     "version": "[3.*, 4.0.0)"
+[api] [2022-10-10T07:15:39.266Z]   }
+[api] [2022-10-10T07:15:39.266Z] }
+[api] [2022-10-10T07:15:39.737Z] Initializing Warmup Extension.
+[api] [2022-10-10T07:15:39.804Z] Initializing Host. OperationId: '578832f0-2e72-41ae-bdc4-8f05a5d41169'.
+[api] [2022-10-10T07:15:39.814Z] Host initialization: ConsecutiveErrors=0, StartupCount=1, OperationId=578832f0-2e72-41ae-bdc4-8f05a5d41169
+[api] [2022-10-10T07:15:39.840Z] LoggerFilterOptions
+[api] [2022-10-10T07:15:39.840Z] {
+[api] [2022-10-10T07:15:39.840Z]   "MinLevel": "None",
+[api] [2022-10-10T07:15:39.840Z]   "Rules": [
+[api] [2022-10-10T07:15:39.840Z]     {
+[api] [2022-10-10T07:15:39.840Z]       "ProviderName": null,
+[api] [2022-10-10T07:15:39.840Z]       "CategoryName": null,
+[api] [2022-10-10T07:15:39.840Z]       "LogLevel": null,
+[api] [2022-10-10T07:15:39.840Z]       "Filter": "<AddFilter>b__0"
+[api] [2022-10-10T07:15:39.840Z]     },
+[api] [2022-10-10T07:15:39.840Z]     {
+[api] [2022-10-10T07:15:39.840Z]       "ProviderName": null,
+[api] [2022-10-10T07:15:39.840Z]       "CategoryName": null,
+[api] [2022-10-10T07:15:39.840Z]       "LogLevel": "Information",
+[api] [2022-10-10T07:15:39.840Z]       "Filter": null
+[api] [2022-10-10T07:15:39.840Z]     },
+[api] [2022-10-10T07:15:39.840Z]     {
+[api] [2022-10-10T07:15:39.840Z]       "ProviderName": "Microsoft.Azure.WebJobs.Script.WebHost.Diagnostics.SystemLoggerProvider",
+[api] [2022-10-10T07:15:39.840Z]       "CategoryName": null,
+[api] [2022-10-10T07:15:39.840Z]       "LogLevel": "None",
+[api] [2022-10-10T07:15:39.840Z]       "Filter": null
+[api] [2022-10-10T07:15:39.840Z]     },
+[api] [2022-10-10T07:15:39.840Z]     {
+[api] [2022-10-10T07:15:39.840Z]       "ProviderName": "Microsoft.Azure.WebJobs.Script.WebHost.Diagnostics.SystemLoggerProvider",
+[api] [2022-10-10T07:15:39.840Z]       "CategoryName": null,
+[api] [2022-10-10T07:15:39.840Z]       "LogLevel": null,
+[api] [2022-10-10T07:15:39.840Z]       "Filter": "<AddFilter>b__0"
+[api] [2022-10-10T07:15:39.840Z]     },
+[api] [2022-10-10T07:15:39.840Z]     {
+[api] [2022-10-10T07:15:39.840Z]       "ProviderName": "Azure.Functions.Cli.Diagnostics.ColoredConsoleLoggerProvider",
+[api] [2022-10-10T07:15:39.840Z]       "CategoryName": null,
+[api] [2022-10-10T07:15:39.840Z]       "LogLevel": null,
+[api] [2022-10-10T07:15:39.840Z]       "Filter": "<AddFilter>b__0"
+[api] [2022-10-10T07:15:39.840Z]     }
+[api] [2022-10-10T07:15:39.840Z]   ]
+[api] [2022-10-10T07:15:39.840Z] }
+[api] [2022-10-10T07:15:39.840Z] LoggerFilterOptions
+[api] [2022-10-10T07:15:39.840Z] {
+[api] [2022-10-10T07:15:39.840Z]   "MinLevel": "None",
+[api] [2022-10-10T07:15:39.840Z]   "Rules": [
+[api] [2022-10-10T07:15:39.840Z]     {
+[api] [2022-10-10T07:15:39.840Z]       "ProviderName": null,
+[api] [2022-10-10T07:15:39.840Z]       "CategoryName": null,
+[api] [2022-10-10T07:15:39.840Z]       "LogLevel": null,
+[api] [2022-10-10T07:15:39.840Z]       "Filter": "<AddFilter>b__0"
+[api] [2022-10-10T07:15:39.840Z]     },
+[api] [2022-10-10T07:15:39.840Z]     {
+[api] [2022-10-10T07:15:39.841Z]       "ProviderName": null,
+[api] [2022-10-10T07:15:39.841Z]       "CategoryName": null,
+[api] [2022-10-10T07:15:39.841Z]       "LogLevel": "Information",
+[api] [2022-10-10T07:15:39.841Z]       "Filter": null
+[2022-10-10T07:15:39.841Z]     },
+[api] [2022-10-10T07:15:39.841Z]     {
+[api] [2022-10-10T07:15:39.841Z]       "ProviderName": "Microsoft.Azure.WebJobs.Script.WebHost.Diagnostics.SystemLoggerProvider",
+[api] [2022-10-10T07:15:39.841Z]       "CategoryName": null,
+[api] [2022-10-10T07:15:39.841Z]       "LogLevel": "None",
+[api] [2022-10-10T07:15:39.841Z]       "Filter": null
+[api] [2022-10-10T07:15:39.841Z]     },
+[api] [2022-10-10T07:15:39.841Z]     {
+[api] [2022-10-10T07:15:39.841Z]       "ProviderName": "Microsoft.Azure.WebJobs.Script.WebHost.Diagnostics.SystemLoggerProvider",
+[api] [2022-10-10T07:15:39.841Z]       "CategoryName": null,
+[api] [2022-10-10T07:15:39.841Z]       "LogLevel": null,
+[api] [2022-10-10T07:15:39.841Z]       "Filter": "<AddFilter>b__0"
+[api] [2022-10-10T07:15:39.841Z]     },
+[api] [2022-10-10T07:15:39.841Z]     {
+[api] [2022-10-10T07:15:39.841Z]       "ProviderName": "Azure.Functions.Cli.Diagnostics.ColoredConsoleLoggerProvider",
+[api] [2022-10-10T07:15:39.841Z]       "CategoryName": null,
+[api] [2022-10-10T07:15:39.841Z]       "LogLevel": null,
+[api] [2022-10-10T07:15:39.841Z]       "Filter": "<AddFilter>b__0"
+[api] [2022-10-10T07:15:39.841Z]     }
+[api] [2022-10-10T07:15:39.841Z]   ]
+[api] [2022-10-10T07:15:39.841Z] }
+[api] [2022-10-10T07:15:39.841Z] ConcurrencyOptions
+[api] [2022-10-10T07:15:39.841Z] {
+[api] [2022-10-10T07:15:39.841Z]   "DynamicConcurrencyEnabled": false,
+[2022-10-10T07:15:39.841Z]   "MaximumFunctionConcurrency": 500,
+[api] [2022-10-10T07:15:39.841Z]   "CPUThreshold": 0.8,
+[api] [2022-10-10T07:15:39.841Z]   "SnapshotPersistenceEnabled": true
+[api] [2022-10-10T07:15:39.841Z] }
+[api] [2022-10-10T07:15:39.841Z] FunctionResultAggregatorOptions
+[api] [2022-10-10T07:15:39.841Z] {
+[api] [2022-10-10T07:15:39.841Z]   "BatchSize": 1000,
+[api] [2022-10-10T07:15:39.841Z]   "FlushTimeout": "00:00:30",
+[api] [2022-10-10T07:15:39.841Z]   "IsEnabled": true
+[api] [2022-10-10T07:15:39.841Z] }
+[api] [2022-10-10T07:15:39.841Z] SingletonOptions
+[api] [2022-10-10T07:15:39.841Z] {
+[api] [2022-10-10T07:15:39.841Z]   "LockPeriod": "00:00:15",
+[api] [2022-10-10T07:15:39.841Z]   "ListenerLockPeriod": "00:00:15",
+[api] [2022-10-10T07:15:39.841Z]   "LockAcquisitionTimeout": "10675199.02:48:05.4775807",
+[api] [2022-10-10T07:15:39.841Z]   "LockAcquisitionPollingInterval": "00:00:05",
+[api] [2022-10-10T07:15:39.841Z]   "ListenerLockRecoveryPollingInterval": "00:01:00"
+[2022-10-10T07:15:39.841Z] }
+[api] [2022-10-10T07:15:39.842Z] Starting JobHost
+[api] [2022-10-10T07:15:39.845Z] Starting Host (HostId=grosblingxeon12-891308704, InstanceId=db62aa66-14a9-4201-bc26-c88a01c87bb8, Version=4.10.4.19213, ProcessId=67761, AppDomainId=1, InDebugMode=False, InDiagnosticMode=False, FunctionsExtensionVersion=(null))
+[api] [2022-10-10T07:15:39.860Z] Loading functions metadata
+[api] [2022-10-10T07:15:39.860Z] Reading functions metadata
+[api] [2022-10-10T07:15:39.861Z] Reading functions metadata
+[api] [2022-10-10T07:15:39.861Z] 1 functions found
+[api] [2022-10-10T07:15:39.861Z] 1 functions found
+[api] [2022-10-10T07:15:39.870Z] 1 functions loaded
+[api] [2022-10-10T07:15:39.911Z] Generating 1 job function(s)
+[api] [2022-10-10T07:15:39.966Z] Found the following functions:
+[api] [2022-10-10T07:15:39.966Z] Host.Functions.redirect
+[api] [2022-10-10T07:15:39.966Z] 
+[api] [2022-10-10T07:15:39.975Z] HttpOptions
+[api] [2022-10-10T07:15:39.976Z] {
+[api] [2022-10-10T07:15:39.976Z]   "DynamicThrottlesEnabled": false,
+[api] [2022-10-10T07:15:39.976Z]   "EnableChunkedRequestBinding": false,
+[api] [2022-10-10T07:15:39.976Z]   "MaxConcurrentRequests": -1,
+[api] [2022-10-10T07:15:39.976Z]   "MaxOutstandingRequests": -1,
+[api] [2022-10-10T07:15:39.976Z]   "RoutePrefix": "api"
+[api] [2022-10-10T07:15:39.976Z] }
+[api] [2022-10-10T07:15:39.977Z] Initializing function HTTP routes
+[api] [2022-10-10T07:15:39.977Z] Mapped function route 'api/redirect' [get,post] to 'redirect'
+[api] [2022-10-10T07:15:39.977Z] 
+[api] [2022-10-10T07:15:39.988Z] Host initialized (131ms)
+[api] [2022-10-10T07:15:39.990Z] Host started (143ms)
+[api] [2022-10-10T07:15:39.990Z] Job host started
+[api] [2022-10-10T07:15:40.063Z] Worker dd11f019-fd1d-48c1-9ddc-68608dd4e662 connecting on 127.0.0.1:52869
+[api] [2022-10-10T07:15:40.208Z] Received WorkerInitRequest
+[api] [2022-10-10T07:15:40.226Z] Worker process started and initialized.
+[api] [2022-10-10T07:15:44.851Z] Host lock lease acquired by instance ID '0000000000000000000000006DAA957F'.
+[api] 
+[api] Functions:
+[api] 
+[api] 	redirect: [GET,POST] http://localhost:7071/api/redirect
+[api] 
+[api] For detailed output, run func with --verbose flag.
+[swa] ✔ Connected to http://localhost:7071 successfully
+[api] [2022-10-10T07:16:43.258Z] Executing HTTP request: {
+[api] [2022-10-10T07:16:43.259Z]   requestId: "b69e8c1a-187c-4818-8412-24de3ed8db80",
+[api] [2022-10-10T07:16:43.259Z]   method: "GET",
+[api] [2022-10-10T07:16:43.259Z]   userAgent: "node-fetch/1.0 (+https://github.com/bitinn/node-fetch)",
+[api] [2022-10-10T07:16:43.259Z]   uri: "/admin/functions"
+[api] [2022-10-10T07:16:43.259Z] }
+[swa] 
+[swa] Using dev server for static content:
+[swa]   https://localhost:5173
+[swa] 
+[swa] Serving API:
+[swa]   /Users/---/Development/azure-swa-clib-bug-580/api
+[swa] 
+[swa] Azure Static Web Apps emulator started at https://localhost:8788. Press CTRL+C to exit.
+[swa] 
+[swa] 
+[api] [2022-10-10T07:16:43.516Z] Executed HTTP request: {
+[2022-10-10T07:16:43.516Z]   requestId: "b69e8c1a-187c-4818-8412-24de3ed8db80",
+[api] [2022-10-10T07:16:43.516Z]   identities: "(WebJobsAuthLevel:Admin, WebJobsAuthLevel:Admin)",
+[api] [2022-10-10T07:16:43.516Z]   status: "200",
+[api] [2022-10-10T07:16:43.516Z]   duration: "257"
+[api] [2022-10-10T07:16:43.516Z] }
 [swa] 
 [swa] --------------------------------------------------------
 [swa] ------------------- processing route -------------------
@@ -1047,10 +552,10 @@
 [swa] killing SWA CLI
 [swa] node "/Users/---/Development/azure-swa-clib-bug-580/node_modules/@azure/static-web-apps-cli/dist/msha/server.js" exited with code 0
 --> Sending SIGTERM to other processes..
-[api] [2022-10-10T06:51:38.915Z] Language Worker Process exited. Pid=66314.
-[api] [2022-10-10T06:51:38.915Z] node exited with code 143 (0x8F). .
+[api] [2022-10-10T07:16:50.308Z] Language Worker Process exited. Pid=67825.
+[api] [2022-10-10T07:16:50.308Z] node exited with code 143 (0x8F). .
 [run] cd "/Users/---/Development/azure-swa-clib-bug-580" && npm run dev exited with code SIGTERM
 --> Sending SIGTERM to other processes..
-[api] [2022-10-10T06:51:39.044Z] Worker 3bcb5ac9-7c5f-4f1e-8c1a-803005bd4176 connecting on 127.0.0.1:51186
-[api] [2022-10-10T06:51:39.092Z] Received WorkerInitRequest
-[api] [2022-10-10T06:51:39.096Z] Worker process started and initialized.
+[api] [2022-10-10T07:16:50.439Z] Worker 991cd466-2373-49d2-921b-628afcd2ee92 connecting on 127.0.0.1:52869
+[api] [2022-10-10T07:16:50.489Z] Received WorkerInitRequest
+[api] [2022-10-10T07:16:50.492Z] Worker process started and initialized.
